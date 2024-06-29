@@ -30,15 +30,12 @@
 
 ---
 ## Project 03: Chatbot
-**Source code** : *proj02_object_detection.py*  
+**Source code** : *proj03_chatbot.py*  
 **Streamlit app link** : [https://m01projectapp-080-anhtiennguyen-proj03.streamlit.app/](https://m01projectapp-080-anhtiennguyen-proj03.streamlit.app/)  
 
 **Steps to test the app:**  
 **Step 1:** Click the above link   
-**Step 2:** In 'Upload MODEL file'  Click <button type="button">Browse files</button> to import '*.caffemodel*' file (in this case: *MobileNetSSD_deploy.caffemodel*)  
-(*Directory:...source\source\model\MobileNetSSD_deploy.caffemode*)   
-**Step 3:** In 'Upload PROTOTXT file'  Click <button type="button">Browse files</button> to import '*.prototxt, .txt*' file (in this case: *MobileNetSSD_deploy.prototxt*)  
-(*Directory:...source\source\model\MobileNetSSD_deploy.prototxt*)  
-**Step 4:** In 'Upload image file'  Click <button type="button">Browse files</button> to import '*.png, .jpg, .jpeg*'<br><br>
+**Step 2:** Log in (e-mail, password) huggingface account  
+**Step 3:** Type your question'<br><br>
 
 
