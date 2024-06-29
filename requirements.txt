@@ -1,0 +1,6 @@
+streamlit 
+hugchat 
+numpy 
+opencv-python 
+opencv-python-headless
+pillow
